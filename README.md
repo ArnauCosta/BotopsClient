@@ -1,5 +1,3 @@
----
-
 # BotOps Client
 
 **BotOps** is a Python client library for interacting with the BotOps API. It provides an easy-to-use interface for managing databases, sending chat requests, and performing health checks through the BotOps REST API.

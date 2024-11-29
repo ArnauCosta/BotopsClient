@@ -126,5 +126,3 @@ Email: [arnaucosta23@gmail.com](mailto:arnaucosta23@gmail.com)
 GitHub: [https://github.com/ArnauCosta](https://github.com/ArnauCosta)
 
 ---
-
-Let me know if you'd like to adjust anything!

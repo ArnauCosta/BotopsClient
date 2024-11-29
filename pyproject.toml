@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "botops"
+version = "0.1.0"
+description = "A Python client for interacting with the BotOps API"
+readme = "README.md"
+authors = [{name = "Arnau Costa", email = "arnaucosta23@gmail.com"}]
+license = {text = "Apache License 2.0"}
+dependencies = ["requests", "pydantic"]
+homepage = "https://github.com/ArnauCosta/BotopsClient"
+repository = "https://github.com/ArnauCosta/BotopsClient"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+]

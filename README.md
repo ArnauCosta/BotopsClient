@@ -1,5 +1,3 @@
-Here's a small README for your project:
-
 ---
 
 # BotOps Client
